@@ -7,12 +7,15 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 <h3><u><i><strong>📌 Flaregod NFT Minting</strong></i></u></h3>
 <hr />
 
-This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
+By minting and holding one of our 5000 unique and intricately designed FlareGod warriors, you'll receive the following benefits:
+
+15% cashback on every minted FlareGod.
+
+10% of every sale made on the secondary marketplace goes to holders.
+
+Native token airdrop per NFT mint
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/2993ff2d-78ee-4908-bf14-bb8f74b51924">
-
-Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
-I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
 
 - Live: <a href="https://flaregods.xyz">Flaregods</a>
 
