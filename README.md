@@ -1,4 +1,4 @@
-# <h1>My recently projects</h1>
+# <h1 align="center" >My recently projects</h1>
 
 I have built several Blockchain projects! My skills covers a wide range of features and functionalities, including minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games such as dice, crash, jackpot, coinflip, and more. I look forward to learning more about the specific details of new skills.
 
