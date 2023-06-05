@@ -1,27 +1,20 @@
 # <h1 align="center" >👇 My recently projects 👇</h1>
 
-I have built several Blockchain projects! My skills covers a wide range of features and functionalities, including minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games such as dice, crash, jackpot, coinflip, and more. I look forward to learning more about the specific details of new skills.
+I have built several Blockchain projects! My skills cover a wide range of features and functionalities, including minting, staking, evolution/breeding, raffle/auction houses, Launchpad, Marketplace, and P2E games such as dice, crash, jackpot, coinflip, and more. I look forward to learning more about the specific details of new skills.
 
 <br />
 
-<h3><i><strong>📌 Flaregod NFT Minting</strong></i></h3>
+<h3><u><i><strong>📌 Flaregod NFT Minting</strong></i></u></h3>
 <hr />
 
 This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/2993ff2d-78ee-4908-bf14-bb8f74b51924">
 
 Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
 I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
 
-- Live: <a href="https://www.monopoly.cafe">Monopoly</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/best-lucky1030/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/best-lucky1030/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/best-lucky1030/monopoly-frontend">monopoly-frontend</a>
-
-
-
+- Live: <a href="https://flaregods.xyz">Flaregods</a>
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
