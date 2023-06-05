@@ -4,7 +4,7 @@ I have built several Blockchain projects! My skills covers a wide range of featu
 
 <br />
 
-<h3><strong>📌 Flaregod NFT Minting</strong></h3>
+<h3><i><strong>📌 Flaregod NFT Minting</strong></i></h3>
 <hr />
 
 This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
