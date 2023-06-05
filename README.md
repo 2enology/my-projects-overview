@@ -9,7 +9,7 @@ I have built several Blockchain projects! My skills covers a wide range of featu
 
 This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
 
-<img align="left" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
 
 Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
 I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
