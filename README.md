@@ -17,7 +17,7 @@ Native token airdrop per NFT mint
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/2993ff2d-78ee-4908-bf14-bb8f74b51924">
 
-- Live: <a href="https://flaregods.xyz">Flaregods</a>
+- Live:<a href="https://flaregods.xyz">Flaregods</a>
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
