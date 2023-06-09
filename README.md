@@ -24,6 +24,7 @@ Doodle Bunny is the NFT project on Flare network. It will not only bring in firs
 - Live: <a href="https://coinflip.deezkits.com">DoodleBunny</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
 
+
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
 
