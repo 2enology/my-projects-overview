@@ -11,8 +11,6 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 
 This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
-Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 2 parts, smart contract, and front-end integration.
-
 - Live: <a href="https://flaregods.xyz">FlareGods</a>
 - Github Repository: <a href="https://flaregods.xyz">FlareGods</a>
 
