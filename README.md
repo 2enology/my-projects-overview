@@ -123,27 +123,18 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 - Live: <a href="https://beastybits.com/">BeastyBit</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">BeastyBit</a>
 
-<h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/196169486-e51ed813-aa69-4318-ba04-cf010d488b4a.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
 
-This is the raffle project that winners can receive the raffle NFT by buying tickets. You can buy tickets by $Sol and various tokens($FLWR, $SHDW, $DUST, $BOLT).
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
 
-- Link: <a href="http://raffle-auction-brains.vercel.app">Sol Flowers Raffle</a>
-- Live Link: <a href="https://raffle.solflowers.io/raffle">Sol Flowers | Raffle</a>
-  - Payment method
-    - $SOL, $FLWR, $SHDW, $DUST, $BOLT
-  - Reward Type
-    - Receive NFT, WL spots(max: 50)
-- Offical Links:
-  - Website: <a href="https://www.solflowers.io">SOL Flowers</a>
-  - Twitter: <a href="https://twitter.com/solflowers_io">Sol flowers</a>
-  - Magic Eden: <a href="https://magiceden.io/creators/sol_flowers">Magic Eden link</a>
-  - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
-  - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
-  - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-brains-">Sol flowers raffle</a>
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Degen Taxi</a>
+
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
