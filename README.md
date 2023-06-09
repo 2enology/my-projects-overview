@@ -37,8 +37,8 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
     - Simply connect wallet and list your NFTs.
     - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
 
-- Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
+- Live: <a href="https://market.doodcats.net/">Marketplace</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
