@@ -162,9 +162,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/1fdef645-47c8-491c-ae61-e3b9db3a0893">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/46a87541-82ba-433f-b721-19d23f148ba1">
 
-- When will my order ship?
+ - When will my order ship?
    - It takes one business day to receive and process your order. The delivery clock starts once the package is picked up by the delivery service, not once you submit your order. Shipping method selected at checkout only applies to time in transit. If your order is listed as 'processing' on your tracking page, the shipping label has not been printed. Our fulfillment team holds certain orders to ensure and maintain product viability. Your tracking will show movement and update automatically once your package is in our carrier's possession. Please note, processing times may be extended during the holiday season.
  
 - Live: <a href="https://dibruno.com/">Di Bruno Bros</a>
