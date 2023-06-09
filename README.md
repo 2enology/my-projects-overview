@@ -159,24 +159,16 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Crypto Legions</a>
 
-<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/1fdef645-47c8-491c-ae61-e3b9db3a0893">
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
-
-- Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
-- Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
-  - Payment method
-    - $SOL, $PREY (SPL token)
-  - Reward Type
-    - Receive NFT, WL spots(max: 50), Reward Token
-- Official Links:
-  - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
-  - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
-  - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Apex-Raffle">Apex-Raffle</a>
+- When will my order ship?
+   - It takes one business day to receive and process your order. The delivery clock starts once the package is picked up by the delivery service, not once you submit your order. Shipping method selected at checkout only applies to time in transit. If your order is listed as 'processing' on your tracking page, the shipping label has not been printed. Our fulfillment team holds certain orders to ensure and maintain product viability. Your tracking will show movement and update automatically once your package is in our carrier's possession. Please note, processing times may be extended during the holiday season.
+ 
+- Live: <a href="https://dibruno.com/">Di Bruno Bros</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Di Bruno Bros</a>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
