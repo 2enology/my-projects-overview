@@ -186,88 +186,17 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
 
-<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
-
-Nifty Nanas.<br />
-Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
-This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
-Now we are adding more features for Nanas.
-
-- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
-- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
-- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
-- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
-- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
-  (Current Staking is updating.... so It's down now)
-  
-- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
-
-<h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Littlespoon</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
 
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 
-    - 1500-2000 / 1 WWV, 
-    - 1000-1499 / 1.5$WWV, 
-    - 600-999 / 2WWV, 
-    - 300-599 / 2.5 WWV, 
-    - 200-299 / 3WWV, 
-    - 51-199 / 4 WWV, 
-    - 1-50 / 5 WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
-
-<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
-
-This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
-
-- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
-- Live link: <a href="https://www.apearena.online">TAC Staking</a>
-  - You can stake your TAC NFT.
-  - You will receive reward as 🍌$GBA calculated by 25 days.
-- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
-
-<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/172245168-9c3f0996-a56b-447a-a45b-54fae3c88853.png">
-
-IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
-
-Now I am working on this project and we are releasing this in Apirl.
-
-- Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
-- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
-
-<h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166212683-99f62168-fac2-4232-a744-7b72bf5e5f10.png">
-
-- Link: <a href="https://universe97.vercel.app" target="_blank">97 Universe</a>
-- Live Link: <a href="https://the97universe.com">The 97 Universe - StreamFi</a>
-- What is `97 Universe` ?
-  - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
-- Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
-
-<h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/165689323-678d0769-eca2-429e-92e2-b97621100b71.png">
-
-- Link: <a href="https://www.solspacemen.com" target="_blank">Sol Spacemen</a>
-- Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
-- $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
-- You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
+- Pick your plan.
+   - From baby food to big kid meals, we’ve got even the pickiest of eaters covered.
+- Sign up and select your products.
+   - After sign up, choose from our menu of options. Add additional products, select meals and make changes with ease.
+- You’re all set.
+   - We’ll prep your Little Spoon order and deliver it straight to your door. Pause, skip, cancel or adjust at any time.
+ 
+- Live: <a href="https://www.littlespoon.com/">Littlespoon</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Littlespoon</a>
