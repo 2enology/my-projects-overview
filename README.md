@@ -14,19 +14,19 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 2 parts, smart contract, and front-end integration.
 
 - Live: <a href="https://flaregods.xyz">FlareGods</a>
+- Github Repository: <a href="https://flaregods.xyz">FlareGods</a>
 
-<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
 
 This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
 
-- Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
-- Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
+- Live: <a href="https://coinflip.deezkits.com">DoodleBunny</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
 
-
+Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
