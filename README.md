@@ -94,7 +94,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 - Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Sol Flowers</a>
  
-<h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
@@ -110,23 +110,18 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 - Live: <a href="https://cutetoinsane.online/">CuteInsane</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">CuteInsane</a>
  
-<h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
 
-Staking an SPL token "FLWR"
+ - who are the beasty bits?
+    - We are beasts in the form of humans. We have series of beasts, each serie with 3 collections. Each collection gives a membership status and a share of the proceedings from the next series.
+ - why become a beast?
+    - As a beast, you will not only get 1:1 AD in that same series, but also be able to participate in various votings that will shape the future collections. The benefits do not stop there, as ofcourse more and more series mean more and more profits just by holding the NFT.
 
-<!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
-- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
-- Live Link: <a href="https://www.solflowers.io">SOL Flowers Staking</a>
-  - number of flwr (spl-token) - 50/75/100%
-  - reward period/lock time  - 4/6/12 month
-  - interest  - 3%/6%/12%
-  - transaction fee - 0.1 sol
-  - penalties for early withdrawl - 6/12/24%
-- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
+- Live: <a href="https://beastybits.com/">BeastyBit</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">BeastyBit</a>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
