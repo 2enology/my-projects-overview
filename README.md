@@ -183,13 +183,10 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://www.cogofly.com/">Co-Go-Fly</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Co-Go-Fly</a>
 
-<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
-<hr />
-
 <h3><u><strong><i>✅ Littlespoon</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76">
 
 - Pick your plan.
    - From baby food to big kid meals, we’ve got even the pickiest of eaters covered.
