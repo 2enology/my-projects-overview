@@ -173,7 +173,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Co-Go-Fly</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/1fdef645-47c8-491c-ae61-e3b9db3a0893">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
 
 - The Genesis of CoTravellers
    - Connect with persons from the 4 corners of the world, share their experiences and expand your network.
