@@ -40,23 +40,20 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 - Live: <a href="https://market.doodcats.net/">Marketplace</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
 
-<h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Doodcats</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/183006431-97bdc41e-8b25-4f13-b260-098d948d2853.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/99e04396-753a-44b6-bf50-327bc7bc5863">
 
-This is burning mechanism to burn NFTs have no metadata in Masked Ape collection. Max burn per wallet per day would be 1 burn to prevent whales easily hoarding MAD tokens by burning blank NFTs.
-
-- Demo: <a href="https://burning-masked-ape.vercel.app">Burning Masked Ape</a>
-- Live: <a href="https://maskedapedao.com">Bruning_Masked_Ape_DAO</a>
-  - Functionality
-    - 848 Masked Apes have missing attributes, we want a dApp to burn them for $MAD tokens. (eg. blank attributes Masked Ape
-    - We will deposit 8,480,000 $MAD in a vault so users can burn and receive 10,000 $MAD tokens.
-    - Users can burn nft has no metadata.
-- $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
-- Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
-- Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Burning_Masked_Ape">Burning_Masked_Ape</a>
+After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD token everyday.
+ - Functionality
+    - Staking: Holders may stake DoodCats v3 NFTs and DedDoods NFTs to earn sDOOD.
+    - Purchasing NFTs: sDOOD holders may purchase NFTs and mint new collection NFTs in future.
+    - Governance: sDOOD holders may participate in the governance of project by voting.
+    - Single token staking: sDOOD holders will be able to stake sDOOD and earn certain percentage depending on the stake plan.
+    
+- Demo: <a href="https://doodcats.net">Doodcats</a>
+- Live: <a href="https://maskedapedao.com">Doodcats</a>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
