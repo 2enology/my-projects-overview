@@ -123,7 +123,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 - Live: <a href="https://beastybits.com/">BeastyBit</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">BeastyBit</a>
 
-<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
