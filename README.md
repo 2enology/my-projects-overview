@@ -151,7 +151,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/db717a1b-bf52-4524-a4ef-34afdcdff36f">
 
 - How To Earn ?
    - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
