@@ -4,37 +4,16 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 
 <br />
 
-<h3><u><i><strong>📌 Flaregod NFT Minting</strong></i></u></h3>
-<hr />
-
-By minting and holding one of our 5000 unique and intricately designed FlareGod warriors, you'll receive the following benefits:
-
-15% cashback on every minted FlareGod.
-
-10% of every sale made on the secondary marketplace goes to holders.
-
-Native token airdrop per NFT mint
-
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/2993ff2d-78ee-4908-bf14-bb8f74b51924">
-
-- Live:<a href="https://flaregods.xyz">Flaregods</a>
-
-<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>FlareGods</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
 
-This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
+This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
-Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 2 parts, smart contract, and front-end integration.
 
-- Live: <a href="https://degentaxi.io">Degen Taxi</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/best-lucky1030/degen-taxi-frontend">degen-taxi-frontend</a>
-
-
+- Live: <a href="https://flaregods.xyz">FlareGods</a>
 
 <h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
