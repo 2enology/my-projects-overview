@@ -19,12 +19,10 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
 
-This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
 
 - Live: <a href="https://coinflip.deezkits.com">DoodleBunny</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
-
-Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
