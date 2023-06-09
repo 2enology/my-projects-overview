@@ -113,7 +113,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 <h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f3591b9a-b70e-4cbd-a9a2-79a6da422961">
 
  - who are the beasty bits?
     - We are beasts in the form of humans. We have series of beasts, each serie with 3 collections. Each collection gives a membership status and a share of the proceedings from the next series.
