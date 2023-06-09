@@ -97,7 +97,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 <h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
 
  - The Mint?
     - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
