@@ -52,10 +52,10 @@ After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excit
     - Governance: sDOOD holders may participate in the governance of project by voting.
     - Single token staking: sDOOD holders will be able to stake sDOOD and earn certain percentage depending on the stake plan.
     
-- Demo: <a href="https://doodcats.net">Doodcats</a>
-- Live: <a href="https://maskedapedao.com">Doodcats</a>
+- Live: <a href="https://doodcats.net">Marketplace</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
 
-<h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ SolArmy<</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
@@ -83,32 +83,17 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
-<h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Sol Flowers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
 
-Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections.
+Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
+SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
 
-- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
-- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a> &nbsp;Moved here: <a href="https://hub.yaku.ai/yaku/staking">Yaku Staking</a>
-  - Model 1: 
-    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
-      - Adventurer: 20 $coin a day 
-      - Scientist: 25 $coin a day 
-      - Doctor: 30 coin a day 
-      - Mission Specialist: 35 $coin a day 
-      - Commander: 40 $coin a day
-  - Model 2
-    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
-  - Model 3 
-    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
-- Official Links:
-  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
-  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
-  - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
-
+- Live: <a href="https://doodcats.net">Marketplace</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
+ 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
