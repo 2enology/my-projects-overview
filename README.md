@@ -21,16 +21,15 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 
 Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
 NFTs holders will be able breed them - 1 Male x 1 Female = Baby Bunny (There will be 500 Baby Bunnies). NFT breeding will cost Bunny token (which will be burned) & later available to stake them on our staking website to earn BUNNY token.
+This is mint website on Flare network. I used Solidity(ERC 721) to write smart contract and Next.js in front-end side.
  
-- Live: <a href="https://coinflip.deezkits.com">DoodleBunny</a>
+- Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
 
-This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/3c3a2193-4131-41d2-8b9f-058db653f1f4">
 
 - Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
 - Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
