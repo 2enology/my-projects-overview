@@ -30,13 +30,15 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 <hr />
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
- 
+
+- Functionality
+    - Over 10 NFT Collections
+    - Sell/buy with SGB, sDOOD & CARE Tokens.
+    - Simply connect wallet and list your NFTs.
+    - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
+
 - Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
-- Functionality
-    - 848 Masked Apes have missing attributes, we want a dApp to burn them for $MAD tokens. (eg. blank attributes Masked Ape
-    - We will deposit 8,480,000 $MAD in a vault so users can burn and receive 10,000 $MAD tokens.
-    - Users can burn nft has no metadata.
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
