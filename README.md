@@ -14,7 +14,7 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 - Live: <a href="https://flaregods.xyz">FlareGods</a>
 - Github Repository: <a href="https://flaregods.xyz">FlareGods</a>
 
-<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
@@ -26,24 +26,17 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 - Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
 
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
+<h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/3c3a2193-4131-41d2-8b9f-058db653f1f4">
-
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/best-lucky1030/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/best-lucky1030/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/best-lucky1030/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
+ 
+- Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
+- Functionality
+    - 848 Masked Apes have missing attributes, we want a dApp to burn them for $MAD tokens. (eg. blank attributes Masked Ape
+    - We will deposit 8,480,000 $MAD in a vault so users can burn and receive 10,000 $MAD tokens.
+    - Users can burn nft has no metadata.
 
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
