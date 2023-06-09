@@ -137,26 +137,16 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 
 
-<h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Deezkits CoinFlip</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887.png">
-
-- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
-  - Payment method
-    - SOL
-    - $REAP (SPL token)
-  - Reward Type
-    - Receive NFT
-    - Whitelist (Max value is 50)
-    - Tickets (Max value is 2000)
-- Original Links:
-  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
-  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
-  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
+- What is the Deezkits CoinFlip Game?
+   - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+ 
+- Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Deezkits CoinFlip</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
