@@ -91,23 +91,24 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
 SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
 
-- Live: <a href="https://doodcats.net">Marketplace</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
+- Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Sol Flowers</a>
  
-<h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
 
-<img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
+ - The Mint?
+    - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
+ - What is Cute to Insane?
+    - Cute to Insane is the NFT on the Flare network. We aim to introduce two collections; the project aims to provide NFTs to the holders and give benefits for holding.
+ - What are the utilties of our NFTs?
+    - 15% mintcost back to holders.
+    - 10% added community pools for flrdrop.
 
-- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
-  - users can reward according to their NFT rare
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
-- KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
+- Live: <a href="https://cutetoinsane.online/">CuteInsane</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">CuteInsane</a>
  
 <h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
