@@ -170,27 +170,18 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://dibruno.com/">Di Bruno Bros</a>
 - Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Di Bruno Bros</a>
 
-<h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ Co-Go-Fly</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/1fdef645-47c8-491c-ae61-e3b9db3a0893">
 
-This is raffle/auction houses of tombstoned application on Solana network.
-
-- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
-- Online link: <a href="https://mausoleum.tombstoned.app">The Mausolem Auction</a>
-  - Payment method
-    - SOL, Various SPL tokens
-  - Reward Type
-    - NFT
-- Official Links:
-  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
-  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
-  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
-  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/best-lucky1030/auction-doge">auction-doge</a>
-  - Project Structure:
-    - Auction contract, Api, Front-end
+- The Genesis of CoTravellers
+   - Connect with persons from the 4 corners of the world, share their experiences and expand your network.
+   - Find cotravellers, with potentially the same socio-professional criteria and areas of interest, in order to organise your trips in the best possible conditions.
+   - Think Together, think Co, and take off to share your trips, weekends, and others outings!
+ 
+- Live: <a href="https://www.cogofly.com/">Co-Go-Fly</a>
+- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Co-Go-Fly</a>
 
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
