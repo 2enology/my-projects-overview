@@ -102,7 +102,7 @@ Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can 
 SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
 
 - Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Sol Flowers</a>
+- Github Repository: <a href="https://github.com/2En0/coinflip-game-solana">Sol Flowers</a>
  
 <h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
