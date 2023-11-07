@@ -22,7 +22,7 @@ This is NFT Minting Project On Solana. Minting will be open for all, Whitelist w
 This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
 - Live: <a href="https://flaregods.xyz">FlareGods</a>
-- Github Repository: <a href="https://flaregods.xyz">FlareGods</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-xwhale-eth">FlareGods</a>
 
 <h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
