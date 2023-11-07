@@ -118,7 +118,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
     - 10% added community pools for flrdrop.
 
 - Live: <a href="https://cutetoinsane.online/">CuteInsane</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">CuteInsane</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-cuteinsane-eth">CuteInsane</a>
  
 <h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -131,7 +131,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
     - As a beast, you will not only get 1:1 AD in that same series, but also be able to participate in various votings that will shape the future collections. The benefits do not stop there, as ofcourse more and more series mean more and more profits just by holding the NFT.
 
 - Live: <a href="https://beastybits.com/">BeastyBit</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">BeastyBit</a>
+- Github Repository: <a href="https://github.com/2En0/mintingdapp-beastybit-eth">BeastyBit</a>
 
 <h3><u><strong><i>✅ Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
