@@ -34,7 +34,7 @@ NFTs holders will be able breed them - 1 Male x 1 Female = Baby Bunny (There wil
 This is mint website on Flare network. I used Solidity(ERC 721) to write smart contract and Next.js in front-end side.
  
 - Live: <a href="https://doodlebunnyflr.live/">DoodleBunny</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">DoodleBunny</a>
+- Github Repository: <a href="https://github.com/2En0/mintingDapp-doodleBunny-eth">DoodleBunny</a>
 
 <h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -48,7 +48,7 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
     - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
 
 - Live: <a href="https://market.doodcats.net/">Marketplace</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
+- Github Repository: <a href="https://github.com/2En0/marketplace-doodcats-eth">Marketplace</a>
 
 <h3><u><strong><i>✅ Doodcats</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -62,8 +62,8 @@ After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excit
     - Governance: sDOOD holders may participate in the governance of project by voting.
     - Single token staking: sDOOD holders will be able to stake sDOOD and earn certain percentage depending on the stake plan.
     
-- Live: <a href="https://doodcats.net">Marketplace</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Marketplace</a>
+- Live: <a href="https://doodcats.net">Doodcats Staking Dapp</a>
+- Github Repository: <a href="https://github.com/2En0/stakingDapp-doodcats-eth">Marketplace</a>
 
 <h3><u><strong><i>✅ SolArmy<</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
