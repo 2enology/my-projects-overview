@@ -143,7 +143,8 @@ This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Tax
 Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Degen Taxi</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Degentaxi FE</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-backend-solana">DegenTaxi BE</a>
 
 
 
@@ -167,8 +168,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
  
 - Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
-- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Crypto Legions FE</a>
-- Github Repository: <a href="https://github.com/2En0/degentaxi-backend-solana">Crypto Legions BE</a>
+- Github Repository: <a href="https://github.com/2En0/cryptolegion-frontend-eth">Crypto Legions</a>
 
 <h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
