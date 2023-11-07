@@ -170,7 +170,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
 - Github Repository: <a href="https://github.com/2En0/cryptolegion-frontend-eth">Crypto Legions</a>
 
-<h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
+<h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> </h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/46a87541-82ba-433f-b721-19d23f148ba1">
