@@ -7,7 +7,7 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 <h3><u><strong><i>✅ SneakyKitten</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
 
 This is NFT Minting Project On Solana. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
@@ -17,7 +17,7 @@ This is NFT Minting Project On Solana. Minting will be open for all, Whitelist w
 <h3><u><strong><i>✅ FlareGods</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
 
 This is NFT Minting Project. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
 
@@ -27,7 +27,7 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 <h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
 
 Doodle Bunny is the NFT project on Flare network. It will not only bring in first ever doodle NFTs on Flare but also, NFT breeding & NFT staking to earn our native Bunny token. There will be total 1000 doodle bunnies (500 Males & 500 Females).
 NFTs holders will be able breed them - 1 Male x 1 Female = Baby Bunny (There will be 500 Baby Bunnies). NFT breeding will cost Bunny token (which will be burned) & later available to stake them on our staking website to earn BUNNY token.
@@ -39,7 +39,7 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 <h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
 
 - Functionality
     - Over 10 NFT Collections
@@ -53,7 +53,7 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 <h3><u><strong><i>✅ Doodcats</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/99e04396-753a-44b6-bf50-327bc7bc5863">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/99e04396-753a-44b6-bf50-327bc7bc5863">
 
 After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD token everyday.
  - Functionality
@@ -96,7 +96,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 <h3><u><strong><i>✅ Sol Flowers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
 
 Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
 SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
@@ -107,7 +107,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 <h3><u><strong><i>✅ CuteInsane</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
 
  - The Mint?
     - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
@@ -123,7 +123,7 @@ SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodlin
 <h3><u><strong><i>✅ BeastyBit</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/f3591b9a-b70e-4cbd-a9a2-79a6da422961">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f3591b9a-b70e-4cbd-a9a2-79a6da422961">
 
  - who are the beasty bits?
     - We are beasts in the form of humans. We have series of beasts, each serie with 3 collections. Each collection gives a membership status and a share of the proceedings from the next series.
@@ -150,7 +150,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
 
 - What is the Deezkits CoinFlip Game?
    - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
@@ -161,7 +161,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/db717a1b-bf52-4524-a4ef-34afdcdff36f">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/db717a1b-bf52-4524-a4ef-34afdcdff36f">
 
 - How To Earn ?
    - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
@@ -172,7 +172,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/46a87541-82ba-433f-b721-19d23f148ba1">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/46a87541-82ba-433f-b721-19d23f148ba1">
 
  - When will my order ship?
    - It takes one business day to receive and process your order. The delivery clock starts once the package is picked up by the delivery service, not once you submit your order. Shipping method selected at checkout only applies to time in transit. If your order is listed as 'processing' on your tracking page, the shipping label has not been printed. Our fulfillment team holds certain orders to ensure and maintain product viability. Your tracking will show movement and update automatically once your package is in our carrier's possession. Please note, processing times may be extended during the holiday season.
@@ -183,7 +183,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Co-Go-Fly</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
 
 - The Genesis of CoTravellers
    - Connect with persons from the 4 corners of the world, share their experiences and expand your network.
@@ -196,7 +196,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>✅ Littlespoon</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76">
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76">
 
 - Pick your plan.
    - From baby food to big kid meals, we’ve got even the pickiest of eaters covered.
