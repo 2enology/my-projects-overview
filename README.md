@@ -157,7 +157,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
  
 - Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
-- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Deezkits CoinFlip</a>
+- Github Repository: <a href="https://github.com/2En0/coinflip-game-solana">Deezkits CoinFlip</a>
 
 <h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
