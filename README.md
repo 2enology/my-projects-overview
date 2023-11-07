@@ -4,6 +4,16 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 
 <br />
 
+<h3><u><strong><i>✅ SneakyKitten</i></strong></u> &nbsp;(SOLANA)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/zenosy/My-Projects-Overview/assets/29924624/783f14ab-5119-4582-b43c-96919d61a995">
+
+This is NFT Minting Project On Solana. Minting will be open for all, Whitelist will have no limit (20% discount). 15% each mint is shared to all holders, the earlier you mint & the more NFTs you hold, the more rewards you can claim.
+
+- Live: <a href="https://sneakylabs.art/">SneakyKitten</a>
+- Github Repository: <a href="https://github.com/2En0/sneakykitten-minting-solana">SneakyKitten</a>
+
 <h3><u><strong><i>✅ FlareGods</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
 
