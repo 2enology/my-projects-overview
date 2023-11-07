@@ -156,7 +156,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
  
 - Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Deezkits CoinFlip</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Deezkits CoinFlip</a>
 
 <h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -167,7 +167,8 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
  
 - Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Crypto Legions</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-frontend-solana">Crypto Legions FE</a>
+- Github Repository: <a href="https://github.com/2En0/degentaxi-backend-solana">Crypto Legions BE</a>
 
 <h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -178,9 +179,8 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - It takes one business day to receive and process your order. The delivery clock starts once the package is picked up by the delivery service, not once you submit your order. Shipping method selected at checkout only applies to time in transit. If your order is listed as 'processing' on your tracking page, the shipping label has not been printed. Our fulfillment team holds certain orders to ensure and maintain product viability. Your tracking will show movement and update automatically once your package is in our carrier's possession. Please note, processing times may be extended during the holiday season.
  
 - Live: <a href="https://dibruno.com/">Di Bruno Bros</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Di Bruno Bros</a>
 
-<h3><u><strong><i>✅ Co-Go-Fly</i></strong></u> &nbsp;(ETH)</h3>
+<h3><u><strong><i>✅ Co-Go-Fly</i></strong></u></h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/9b0059a4-53db-4ede-815e-2bc08d773e04">
@@ -191,7 +191,6 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - Think Together, think Co, and take off to share your trips, weekends, and others outings!
  
 - Live: <a href="https://www.cogofly.com/">Co-Go-Fly</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Co-Go-Fly</a>
 
 <h3><u><strong><i>✅ Littlespoon</i></strong></u> &nbsp;(ETH)</h3>
 <hr />
@@ -206,4 +205,3 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
    - We’ll prep your Little Spoon order and deliver it straight to your door. Pause, skip, cancel or adjust at any time.
  
 - Live: <a href="https://www.littlespoon.com/">Littlespoon</a>
-- Github Repository: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">Littlespoon</a>
