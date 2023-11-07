@@ -192,7 +192,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
  
 - Live: <a href="https://www.cogofly.com/">Co-Go-Fly</a>
 
-<h3><u><strong><i>✅ Littlespoon</i></strong></u> &nbsp;(ETH)</h3>
+<h3><u><strong><i>✅ Littlespoon</i></strong></u> </h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/bd02b8a6-8ecf-4c54-aca7-42be9cc85e76">
