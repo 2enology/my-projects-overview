@@ -170,15 +170,16 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
 - Github Repository: <a href="https://github.com/2En0/cryptolegion-frontend-eth">Crypto Legions</a>
 
-<h3><u><strong><i>✅ Di Bruno Bros</i></strong></u> </h3>
+<h3><u><strong><i>✅ Lion Here</i></strong></u> </h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/46a87541-82ba-433f-b721-19d23f148ba1">
-
- - When will my order ship?
-   - It takes one business day to receive and process your order. The delivery clock starts once the package is picked up by the delivery service, not once you submit your order. Shipping method selected at checkout only applies to time in transit. If your order is listed as 'processing' on your tracking page, the shipping label has not been printed. Our fulfillment team holds certain orders to ensure and maintain product viability. Your tracking will show movement and update automatically once your package is in our carrier's possession. Please note, processing times may be extended during the holiday season.
+<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/80ed5334-8ac4-40dd-987c-d22064327a66">
+ - The rewards pool will have a set amount, and once it's empty, it's empty. meaning over a years time there will be staking rewards. 
+ - Reward-rates are the same and will not change. 
+ - If you start right away you will have taken a bigger share of the rewards.
+ - The TSP airdrop to Lion holders will not happen until all Lions are minted. But if you have a Lion now, you can start staking and earn TSP already.
  
-- Live: <a href="https://dibruno.com/">Di Bruno Bros</a>
+- Live: <a href="https://tsphunt.xyz/">Lion Here</a>
 
 <h3><u><strong><i>✅ Co-Go-Fly</i></strong></u></h3>
 <hr />
