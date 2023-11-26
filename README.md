@@ -24,7 +24,7 @@ This is NFT Minting Project. Minting will be open for all, Whitelist will have n
 - Live: <a href="https://flaregods.xyz">FlareGods</a>
 - Github Repository: <a href="https://github.com/2En0/mintingdapp-xwhale-eth">FlareGods</a>
 
-<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp;(ETH)</h3>
+<h3><u><strong><i>✅ DoodleBunny</i></strong></u> &nbsp; (ETH)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/f5d6d61d-2fac-4d37-9f43-ba7c1f870265">
