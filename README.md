@@ -65,7 +65,7 @@ After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excit
 - Live: <a href="https://doodcats.net">Doodcats Staking Dapp</a>
 - Github Repository: <a href="https://github.com/2En0/stakingDapp-doodcats-eth">Doodcats Staking Dapp</a>
 
-<h3><u><strong><i>✅ SolArmy<</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>✅ SolArmy </i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
