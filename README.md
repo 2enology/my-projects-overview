@@ -32,7 +32,7 @@ This is mint website on Flare network. I used Solidity(ERC 721) to write smart c
 <img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/17ed39ed-1451-4f6d-aded-e87a21ea033e">
 
 - Functionality
-    - Over 10 NFT Collections
+    - Over 10 NFT Collections.
     - Sell/buy with SGB, sDOOD & CARE Tokens.
     - Simply connect wallet and list your NFTs.
     - 5% Fee: All collected sDOOD will be burned monthly & all collected SGB will be used to buy back sDOOD token.
