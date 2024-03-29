@@ -149,17 +149,6 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 - Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
 - Github Repository: <a href="https://github.com/2En0/coinflip-game-solana">Deezkits CoinFlip</a>
 
-<h3><u><strong><i>✅ Crypto Legions</i></strong></u> &nbsp;(ETH)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/2En0/My-Projects-Overview/assets/29924624/db717a1b-bf52-4524-a4ef-34afdcdff36f">
-
-- How To Earn ?
-   - In Crypto Legions you will be able to create and develop fierce legions, which you can use to hunt the most dangerous monsters on planet Nicah. There are many ways for people to profit from the Crypto Legions ecosystem, and three of the main ways are: summoning and trading valuable NFT assets, using legions to hunt the monsters of Nicah, and trading the $BLOODSTONE token. Successfully hunting and defeating these monsters will earn you $BLOODSTONE ($BLST) which is the most valuable resource in the entire universe.
- 
-- Live: <a href="https://cryptolegions.app/">Crypto Legions</a>
-- Github Repository: <a href="https://github.com/2En0/cryptolegion-frontend-eth">Crypto Legions</a>
-
 <h3><u><strong><i>✅ Lion Here</i></strong></u> </h3>
 <hr />
 
