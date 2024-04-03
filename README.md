@@ -5,7 +5,7 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 <br />
 <h3><u><strong><i>✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 <hr />
-![work24](https://github.com/zeno-degen/my-projects-overview/assets/29924624/2affe89b-fa4b-4c3f-bf31-fe511937954d)
+<img align="right" width="300px" src="https://github.com/zeno-degen/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
 
 Buy $ZOINK with FLR: You can buy $ZOINK tokens using FLR, 1 FLR = 50,000 $ZOINK, Claim Your $ZOINK Tokens: After the presale ends or the hardcap is filled, you will be able to claim your $ZOINK tokens
 
