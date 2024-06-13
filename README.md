@@ -5,7 +5,7 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 <br />
 <h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp; (Solana)</h3>
 <hr />
-![image](https://github.com/z3nology/my-projects-overview/assets/29924624/086de529-34c5-4e24-96a0-bc53d120c8ef)
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/086de529-34c5-4e24-96a0-bc53d120c8ef">
 - Live: <a href="https://fostermarketplace.app/">ZOINK MEMECOIN</a>
 - Github Repository: <a href="https://github.com/z3nology/foster-marketplace">ZOINK MEMECOIN</a>
 
