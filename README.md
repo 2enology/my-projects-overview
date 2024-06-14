@@ -17,8 +17,8 @@ Built the smart contract
 - Github Repository: <a href="https://github.com/z3nology/foster-marketplace">Foster Marketplace</a>
 <br />
 
-<h3><u><strong><i align="left">✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 <hr />
+<h3><u><strong><i align="left">✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 
 <img align="left" width="400px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
 
