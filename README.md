@@ -4,6 +4,7 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 
 <br />
 <hr />
+
 <h3><u><strong><i>✅ NFT Marketplace</i></strong></u> &nbsp; (Solana)</h3>
 <img align="left" width="400px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/086de529-34c5-4e24-96a0-bc53d120c8ef">
 DAO-Governed NFT Marketplace & Web3 streaming protocol for art and music. It is a DApp built on the Solana blockchain that offers
@@ -12,9 +13,9 @@ Built the smart contract
 
 - Live: <a href="https://fostermarketplace.app/">Foster Marketplace</a>
 - Github Repository: <a href="https://github.com/z3nology/foster-marketplace">Foster Marketplace</a>
-
-<hr />
+<br />
 <h3><u><strong><i>✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
+<hr />
 <img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
 
 Buy $ZOINK with FLR: You can buy $ZOINK tokens using FLR, 1 FLR = 50,000 $ZOINK, Claim Your $ZOINK Tokens: After the presale ends or the hardcap is filled, you will be able to claim your $ZOINK tokens
