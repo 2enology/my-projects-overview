@@ -9,6 +9,7 @@ I have built several Blockchain projects! My skills cover a wide range of featur
 DAO-Governed NFT Marketplace & Web3 streaming protocol for art and music. It is a DApp built on the Solana blockchain that offers
 alternative monetizing opportunities for creators and composable consumption for collectors and curators.
 Built the smart contract
+
 - Live: <a href="https://fostermarketplace.app/">Foster Marketplace</a>
 - Github Repository: <a href="https://github.com/z3nology/foster-marketplace">Foster Marketplace</a>
 
