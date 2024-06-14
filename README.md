@@ -13,10 +13,8 @@ alternative monetizing opportunities for creators and composable consumption for
 Built the smart contract
 </p>
 
-<div style="margin-left:10 display:flex-col">
 - Live: <a href="https://fostermarketplace.app/">Foster Marketplace</a>
 - Github Repository: <a href="https://github.com/z3nology/foster-marketplace">Foster Marketplace</a>
-</div>
 <br />
 
 <hr />
