@@ -33,7 +33,7 @@ BUilt Frontend and Smart Contract
 <h3><u><strong><i align="left">Elementals Staking</i></strong></u> &nbsp; (Solana)</h3>
 <img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
 
-The users can stake their NFTs & Tokens to get some reward.
+The users can stake their NFTs & Tokens to get some reward. <br />
 30 Days => Normal rewards <br/>
 90 Days => 10% Boost on total rewards <br/>
 365 Days, 25% boost on total rewards
@@ -41,6 +41,16 @@ The users can stake their NFTs & Tokens to get some reward.
 - Github Repository: <a href="https://github.com/z3nology/elementals-staking">Elementals NFT Staking</a>
 <br />
 
+<hr />
+
+<h3><u><strong><i align="left">Duel Arena</i></strong></u> &nbsp; (Solana)</h3>
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
+
+Duel Arena is an online Casino, Player-versus-Dealer and player-versus-Plyer gaming platform that combines web3 technology with our state-of-the art gaming platform to provide a secure and immersive experience
+for players all around the globe, our community-focused project aims to deliver a greawt gambling expereince for players of all levels and interests.
+- Live: <a href="https://duelarena.io/">Duel Arena</a>
+- Github Repository: <a href="https://github.com/z3nology/duelarena">Duel Arena</a>
+<br />
 
 <hr />
 <h3><u><strong><i align="left">✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
