@@ -17,6 +17,19 @@ Built the smart contract
 <br />
 
 <hr />
+
+<h3><u><strong><i align="left">Galactic Kingdom</i></strong></u> &nbsp; (Solana)</h3>
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8ad28645-70ba-4d57-86a5-da15ff5b5ef4">
+
+DAO-Governed NFT Marketplace & Web3 streaming protocol for art and music. It is a DApp built on the Solana blockchain that offers
+alternative monetizing opportunities for creators and composable consumption for collectors and curators.
+Built the frontend and smart contract
+
+- Live: <a href="https://www.galactickingdom.io/">Galactic Kingdom</a>
+- Github Repository: <a href="https://github.com/z3nology/galactic-frontend">Galactic Kingdo</a>
+<br />
+
+<hr />
 <h3><u><strong><i align="left">✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 
 <img align="left" width="400px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
