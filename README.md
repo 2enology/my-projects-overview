@@ -31,7 +31,7 @@ BUilt Frontend and Smart Contract
 <hr />
 
 <h3><u><strong><i align="left">Elementals Staking</i></strong></u> &nbsp; (Solana)</h3>
-<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8ad28645-70ba-4d57-86a5-da15ff5b5ef4">
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
 
 The users can stake their NFTs & Tokens to get some reward.
 30 Days => Normal rewards
