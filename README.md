@@ -53,6 +53,71 @@ for players all around the globe, our community-focused project aims to deliver 
 <br />
 
 <hr />
+<h3><u><strong><i>Sol Flowers</i></strong></u> &nbsp;(Solana)</h3>
+
+<img align="right" width="300px" src="https://github.com/z3nology/My-Projects-Overview/assets/29924624/5df9df03-f822-48b9-8c64-4dd7635880f3">
+
+Owners of the OG NFT Seattle set have access to the Genesis DAO, where they can vote on future decisions related to FLWR, such as changes to staking emissions and supply burn, through a voting system on Blockchain.
+SOL Flower holders are dedicated supporters of the Flower ecosystem, they hodling strong and help to grow the community by onboarding new members. Their strong belief in FLWR solidifies the ecosystem's potential and value.
+
+- Live: <a href="https://www.solflowers.io/">Sol Flowers</a>
+- Github Repository: <a href="https://github.com/z3nology/sol-flower">Sol Flowers</a>
+<br />
+
+<hr />
+<h3><u><strong><i>✅ Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi.
+
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github Repository: <a href="https://github.com/z3nology/degentaxi-frontend-solana">Degentaxi FE</a>
+- Github Repository: <a href="https://github.com/z3nology/degentaxi-backend-solana">DegenTaxi BE</a>
+
+<br />
+
+<hr />
+<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+
+<img align="right" width="300px" src="https://github.com/z3nology/My-Projects-Overview/assets/29924624/58858b56-3bb4-4ffc-a929-92fe36aa8907">
+
+- What is the Deezkits CoinFlip Game?
+   - This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+ 
+- Live: <a href="https://coinflip.deezkits.com/">Deezkits CoinFlip</a>
+- Github Repository: <a href="https://github.com/z3nology/deezkit-coinflip">Deezkits CoinFlip</a>
+<br />
+
+<hr />
+<h3><u><strong><i>SolArmy </i></strong></u> &nbsp;(Solana)</h3>
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
+A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
+
+  - Functionality
+    - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
+    - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
+  - Rarity Multiplier
+    - Baby Ape
+      - Rank < 13 = 100 $DAB/day
+      - Rank < 1,000 = 15 $DAB/day
+      - Rank >= 1,000 = 10 $DAB/day
+    - Baby Tiger
+      - Rank < 13 = 20 $DAB/day
+      - Rank < 1,000 = 3 $DAB/day
+      - Rank >= 1,000 = 2 $DAB/day
+  - Pair Multiplier
+    - Matching Baby Ape + Baby Tiger
+      - 25% bonus on the sum of the rarity multiplier.
+- Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
+- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+
+
+
+<hr />
 <h3><u><strong><i align="left">✅ Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 
 <img align="left" width="400px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
