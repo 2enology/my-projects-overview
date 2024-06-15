@@ -34,8 +34,8 @@ BUilt Frontend and Smart Contract
 <img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
 
 The users can stake their NFTs & Tokens to get some reward.
-30 Days => Normal rewards
-90 Days => 10% Boost on total rewards
+30 Days => Normal rewards <br/>
+90 Days => 10% Boost on total rewards <br/>
 365 Days, 25% boost on total rewards
 - Live: <a href="https://new-staking.elementalsnft.io/">Elementals NFT Staking</a>
 - Github Repository: <a href="https://github.com/z3nology/elementals-staking">Elementals NFT Staking</a>
