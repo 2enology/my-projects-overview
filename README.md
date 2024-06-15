@@ -44,7 +44,7 @@ The users can stake their NFTs & Tokens to get some reward. <br />
 <hr />
 
 <h3><u><strong><i align="left">Duel Arena</i></strong></u> &nbsp; (Solana)</h3>
-<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/38118594-b66d-45d7-affe-c1cf88946af2">
 
 Duel Arena is an online Casino, Player-versus-Dealer and player-versus-Plyer gaming platform that combines web3 technology with our state-of-the art gaming platform to provide a secure and immersive experience
 for players all around the globe, our community-focused project aims to deliver a greawt gambling expereince for players of all levels and interests.
