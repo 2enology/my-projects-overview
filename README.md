@@ -118,7 +118,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 <hr />
 <h3><u><strong><i align="left">Binky Bunny Presale</i></strong></u> &nbsp; (ETH)</h3>
 
-<img align="left" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/1eadcee1-a613-42a7-b623-c64c632ce27d">
 
 Binky is an innocent rabbit who dreams of becoming a crypto millionaire alongside her friends in this bull run!
 Binky's mission is to hop through all the meme coins and establish her dominion as the queen of cryptocurrencies.
@@ -132,7 +132,7 @@ She won't stop until she achieves it!
 <hr />
 <h3><u><strong><i align="left">Zoink Token Presale</i></strong></u> &nbsp; (ETH)</h3>
 
-<img align="left" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
+<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/9a97e12a-4934-46df-a6fe-238c26bfd2a3">
 
 Buy $ZOINK with FLR: You can buy $ZOINK tokens using FLR, 1 FLR = 50,000 $ZOINK, Claim Your $ZOINK Tokens: After the presale ends or the hardcap is filled, you will be able to claim your $ZOINK tokens
 
