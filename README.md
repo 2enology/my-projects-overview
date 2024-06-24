@@ -113,7 +113,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
     - Matching Baby Ape + Baby Tiger
       - 25% bonus on the sum of the rarity multiplier.
 - Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
-- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC NFT Staking</a>
 
 <hr />
 <h3><u><strong><i align="left">Binky Bunny Presale</i></strong></u> &nbsp; (ETH)</h3>
