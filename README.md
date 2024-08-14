@@ -95,7 +95,7 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 <h3><u><strong><i>SolArmy </i></strong></u> &nbsp;(Solana)</h3>
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
-A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
+A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB earned and any multiplier bonus are outlined below. 
 
   - Functionality
     - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
@@ -187,11 +187,11 @@ This is a mint website on the Flare network. I used Solidity(ERC 721) to write s
 
 <img align="right" width="300px" src="https://github.com/z3nology/My-Projects-Overview/assets/29924624/99e04396-753a-44b6-bf50-327bc7bc5863">
 
-After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD tokens everyday.
+After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excited to share that the owners of DedDoods NFTs will be able to stake their NFTs and earn sDOOD tokens every day.
  - Functionality
     - Staking: Holders may stake DoodCats v3 NFTs and DedDoods NFTs to earn sDOOD.
-    - Purchasing NFTs: sDOOD holders may purchase NFTs and mint new collection NFTs in the future.
-    - Governance: sDOOD holders may participate in the governance of project by voting.
+    - Purchasing NFTs: sDOOD holders may purchase NFTs and mint new collection NFTs.
+    - Governance: sDOOD holders may participate in project governance by voting.
     - Single token staking: sDOOD holders will be able to stake sDOOD and earn a certain percentage depending on the stake plan.
     
 - Live: <a href="https://doodcats.net">Doodcats Staking Dapp</a>
@@ -204,7 +204,7 @@ After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excit
 <img align="right" width="300px" src="https://github.com/z3nology/My-Projects-Overview/assets/29924624/f50e174d-bd53-44c6-927a-6979eb051b91">
 
  - The Mint?
-    - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, public mint will be open for all - Mint cost 1500.
+    - Whitelist mint will run for 24 hours and mint cost will be 1000 FLR. 1000 out of 2500 NFTs will be available during whitelist. After 24 hours, the public mint will be open for all - Mint costs 1500.
  - What is Cute to Insane?
     - Cute to Insane is the NFT on the Flare network. We aim to introduce two collections; the project aims to provide NFTs to the holders and give benefits for holding.
  - What are the utilities of our NFTs?
@@ -220,7 +220,7 @@ After DoodCats, we are happy to introduce DedDoods NFT on SONGBIRD. We are excit
 <h3><u><strong><i>Lion Hero</i></strong></u> </h3>
 
 <img align="right" width="300px" src="https://github.com/z3nology/My-Projects-Overview/assets/29924624/80ed5334-8ac4-40dd-987c-d22064327a66">
- - The rewards pool will have a set amount, and once it's empty, it's empty. meaning over a years time there will be staking rewards. 
+ - The rewards pool will have a set amount, and once it's empty, it's empty. meaning over a year there will be staking rewards. 
  - Reward rates are the same and will not change. 
  - If you start right away you will have taken a bigger share of the rewards.
  - The TSP airdrop to Lion holders will not happen until all Lions are minted. But if you have a Lion now, you can start staking and earn TSP already.
