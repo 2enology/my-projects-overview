@@ -18,18 +18,6 @@ Built the Smart Contract
 
 <hr />
 
-<h3><u><strong><i align="left">Galactic Kingdom</i></strong></u> &nbsp; (Solana)</h3>
-<img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8ad28645-70ba-4d57-86a5-da15ff5b5ef4">
-
-The Galactic Kingdom is a space-themed strategy mobile game that aims to onboard Web 2 mobile gamers by blending addicting gameplay with the rewards unlocked by true digital asset ownership.
-Built Frontend and Smart Contract
-
-- Live: <a href="https://www.galactickingdom.io/">Galactic Kingdom</a>
-- GitHub Repository: <a href="https://github.com/z3nology/galactic-frontend">Galactic Kingdo</a>
-<br />
-
-<hr />
-
 <h3><u><strong><i align="left">Elementals Staking</i></strong></u> &nbsp; (Solana)</h3>
 <img align="right" width="300px" src="https://github.com/z3nology/my-projects-overview/assets/29924624/8cbde41e-f5ff-48fb-8f66-aff0e845dfd8">
 
